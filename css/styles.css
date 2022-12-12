@@ -1,0 +1,5 @@
+.bg-img1 {
+  background-color: #000;
+  background-image: url("../img/hinh-nen-ky-lan-600x400.jpg");
+  background-size: cover;
+}
